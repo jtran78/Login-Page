@@ -4,8 +4,6 @@ HTML/CSS
 A simple and elegant Login Form built using HTML5 and CSS3. This project demonstrates the use of modern front-end design concepts such as glassmorphism, responsive layout, custom fonts, and icons.
 
 
-(You can replace this image link with a screenshot of your actual login page)
-
 ## Features
 
 Responsive and modern login interface
