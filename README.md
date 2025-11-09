@@ -68,7 +68,7 @@ This login page is for design and demonstration purposes only — it does not co
 
 ## Preview
 
-![Login Page Preview](preview.jpg)
+![Login Page Preview](preview.JPG)
 .
 
 ## Author
