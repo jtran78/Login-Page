@@ -40,10 +40,7 @@ login-form/
 
 ## How to Use
 
-Clone or Download this repository.
-
-git clone https://github.com/yourusername/login-form.git
-
+Download this repository.
 
 Make sure the index.html and style.css files are in the same folder.
 
